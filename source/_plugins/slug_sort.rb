@@ -7,8 +7,7 @@ module Jekyll
 
     def slug_sort(posts)
       slug_sorted_posts = posts.sort{|a,b| a.slug <=> b.slug }
-      binding.pry
-      Jekyll.logger.info slug_sorted_posts.inspect
+      # Jekyll.logger.info slug_sorted_posts.inspect
       slug_sorted_posts
     end
     

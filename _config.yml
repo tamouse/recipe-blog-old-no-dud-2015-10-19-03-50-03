@@ -1,4 +1,9 @@
 name: "Tamouse's Recipe File"
 markdown: redcarpet
 pygments: true
+
+source: source
 destination: public
+
+exclude: [README.md]
+
