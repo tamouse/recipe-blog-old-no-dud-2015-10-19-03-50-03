@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Categories"
+---
+
+<div id="category-index" class="container">
+  <ul id="categories">
+    {% for category in site.categories %}
+    {% capture category_name %}{{category|first}}{% endcapture %}
+    <li><a href="/categories/{{category_name}}/index.html">{{ category_name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

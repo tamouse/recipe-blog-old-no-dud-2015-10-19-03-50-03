@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="page-header">
+<h2>{{ page.title }}</h2>
+<p class="meta">
+  {{ page.date | date_to_string }}
+  &bullet;
+  Filed under:
+  {% for cat in page.categories %}
+    <a href="/categories/{{cat}}">{{cat}}</a>
+  {% endfor %}
+  &bullet;
+  Tags:
+    {% for tag in page.tags %}
+    <a href="/tags/{{tag}}">{{tag}}</a>,
+    {% endfor %}
+</p>  
+
+</div>
+
+<div class="container">
+{{ content }}
+</div>
+
+{% if page.external_url %}
+<p>
+  <strong>Source:</strong>
+  <a href="{{page.external_url}}">{{page.external_url}}</a>
+</p>
+{% endif %}

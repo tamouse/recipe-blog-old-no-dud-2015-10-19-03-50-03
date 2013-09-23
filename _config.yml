@@ -1,0 +1,4 @@
+name: "Tamouse's Recipe File"
+markdown: redcarpet
+pygments: true
+destination: public

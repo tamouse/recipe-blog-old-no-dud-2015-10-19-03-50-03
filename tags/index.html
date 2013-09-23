@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Tags"
+---
+
+<div id="tag-index" class="container">
+  <ul id="tags">
+    {% for tag in site.tags %}
+    {% capture tag_name %}{{tag|first}}{% endcapture %}
+    <li><a href="/tags/{{tag_name}}/index.html">{{ tag_name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
