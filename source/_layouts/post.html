@@ -8,12 +8,12 @@ layout: default
   &bullet;
   Filed under:
   {% for cat in page.categories %}
-    <a href="/categories/{{cat}}">{{cat}}</a>
+    <a href="{{site.baseurl}}/categories/{{cat}}">{{cat}}</a>
   {% endfor %}
   &bullet;
   Tags:
     {% for tag in page.tags %}
-    <a href="/tags/{{tag}}">{{tag}}</a>,
+    <a href="{{site.baseurl}}/tags/{{tag}}">{{tag}}</a>,
     {% endfor %}
 </p>  
 

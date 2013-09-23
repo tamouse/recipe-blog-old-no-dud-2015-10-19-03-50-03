@@ -7,7 +7,7 @@ title: "Tags"
   <ul id="tags">
     {% for tag in site.tags %}
     {% capture tag_name %}{{tag|first}}{% endcapture %}
-    <li><a href="/tags/{{tag_name}}/index.html">{{ tag_name }}</a></li>
+    <li><a href="{{site.baseurl}}/tags/{{tag_name}}/index.html">{{ tag_name }}</a></li>
     {% endfor %}
   </ul>
 </div>

@@ -6,4 +6,4 @@ source: source
 destination: public
 
 exclude: [README.md]
-
+baseurl: /recipe-blog
