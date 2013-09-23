@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+gem "jekyll"
+gem "rake"
+gem "highline"
+gem "stringex"
+gem "nokogiri"
+gem "pandoc-ruby"
+gem "pry"
