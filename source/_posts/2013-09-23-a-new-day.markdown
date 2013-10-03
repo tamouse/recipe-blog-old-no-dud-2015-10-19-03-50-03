@@ -1,6 +1,0 @@
----
-layout: post
-category: misc
----
-
-# just a misc post.
