@@ -1,3 +1,5 @@
 public/
 gh-pages/
 bin/
+.bundle/
+Gemfile.lock
