@@ -1,5 +1,57 @@
-<div class="container">
-  <div class="page-header">
-    <h1 class="title"><a href="{{site.baseurl}}/">{{ site.name }}</a></h1>
+<!-- <div class="container"> -->
+<!--   <div class="page-header"> -->
+<!--     <h1 class="title"><a href="{{site.baseurl}}/">{{ site.name }}</a></h1> -->
+<!--   </div> -->
+<!-- </div> -->
+<nav class="navbar navbar-default" role="navigation">
+  <!-- Brand and toggle get grouped for better mobile display -->
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="{{site.baseurl}}/">{{site.name}}</a>
   </div>
-</div>
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse navbar-ex1-collapse">
+    <ul class="nav navbar-nav">
+      <li id="category-dropdown" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          {% capture categories %}
+          {% for category in site.categories %}
+          {{ category[0] }}
+          {% endfor %}
+          {% endcapture %}
+          {% assign sortedcats = categories | split:' ' | sort %}
+          {% for category_name in  sortedcats %}
+          <li><a href="{{site.baseurl}}/categories/{{category_name}}/index.html">{{ category_name }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li id="tag-dropdown" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tags <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          {% capture tags %}
+          {% for tag in site.tags %}
+          {{ tag[0] }}
+          {% endfor %}
+          {% endcapture %}
+          {% assign sortedtags = tags | split:' ' | sort %}
+          {% for tag_name in  sortedtags %}
+          <li><a href="{{site.baseurl}}/tags/{{tag_name}}/index.html">{{ tag_name }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    </ul>
+    <!-- <form class="navbar-form navbar-right" role="search"> -->
+    <!--   <div class="form-group"> -->
+    <!--     <input type="text" class="form-control" placeholder="Search Terms"> -->
+    <!--   </div> -->
+    <!--   <button type="submit" class="btn btn-default">Search</button> -->
+    <!-- </form> -->
+  </div><!-- /.navbar-collapse -->
+</nav>
