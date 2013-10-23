@@ -3,20 +3,14 @@ layout: post
 title: "Baked Wild Rice with Kale, Carmelized Onions, and Soft-Cooked Eggs"
 date: 2013-10-03 14:15
 category: main-dishes
-tags: [wild-rice, kale, carmelized-onions, eggs]
-external_url: http://www.parade.com/169500/debperelman/baked-wild-rice-with-kale-caramelized-onions-and-soft-cooked-eggs/print/
+tags: [wild-rice, kale, carmelized-onions, eggs, houseboat]
+external_url: http://www.parade.com/169500/debperelman/baked-wild-rice-with-kale-caramelized-onions-and-soft-cooked-eggs/
 ---
 
 <div class="excerpt">
-Gratins get a bad rap—but they’re actually the ultimate weeknight
-casserole. Most people imagine that gratins are flooded with cream and
-cheese, though neither is essential to a good one. I call this gratin
-“baked wild rice” to avoid the misconception. It’s made with a wild rice
-blend, onions cooked until they’re sweet, ribbons of kale, and grated
-cheese. The result is one of our favorite cold-weather dishes, decadent
-but not over the top. I often make it at the start of the week, then
-reheat it throughout—either as a side dish or as a meal in itself,
-especially with a soft-boiled egg on top.
+Oh my, this was so good. This is now a go-to recipe for us. Consider
+adding loose sausage instead of the eggs, or even chicken. Yum! This
+is definitely one for the houseboat!
 </div>
 
 Baked Wild Rice with Kale, Caramelized Onions, and Soft-Cooked Eggs
@@ -24,9 +18,9 @@ Baked Wild Rice with Kale, Caramelized Onions, and Soft-Cooked Eggs
 
 By Deb Perelman
 
-![(credit: Andrew Purcell)](http://static2.parade.com/wp-content/uploads/2013/09/baked-wild-rice-kale-carmelized-onions-soft-cooked-eggs-ftr.jpg)
+![(credit: Andrew Purcell)](/images/baked-wild-rice-kale-carmelized-onions-soft-cooked-eggs-ftr.jpg "(credit: Andrew Purcell)")
 
-Gratins get a bad rap—but they’re actually the ultimate weeknight
+> Gratins get a bad rap—but they’re actually the ultimate weeknight
 casserole. Most people imagine that gratins are flooded with cream and
 cheese, though neither is essential to a good one. I call this gratin
 “baked wild rice” to avoid the misconception. It’s made with a wild rice

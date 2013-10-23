@@ -3,21 +3,12 @@ layout: post
 title: "Carrot Soup with Turkey Meatballs and Spinach"
 date: 2013-10-03 14:23
 category: soups
-external_url: http://www.parade.com/169511/debperelman/carrot-soup-with-turkey-meatballs-and-spinach/print/
+external_url: http://www.parade.com/169511/debperelman/carrot-soup-with-turkey-meatballs-and-spinach/
 tags: [carrots, turkey, spinach]
 ---
 
 <div class="excerpt">
-I used to think I didn’t like soup. I disliked the monotony of every
-spoonful tasting exactly like the one before and was bored before the
-bowl was halfway done. Then I realized I’d just been doing it wrong. Now
-I pay a lot of attention to the stuff we add at the end—be it a drizzle
-of olive oil, a swirl of cream, or a crispy crouton. This is one of my
-favorite soups. Tiny meat­balls, cooked right in the soup (where they
-stay extra-tender), make a bowl a whole meal. It’s an autumnal take on
-Italian wedding soup, and in keeping with that, I now add a handful or
-two of spinach at the end. It makes the soup even more interesting, and
-pretty, too.
+Have not made this yet, but it looks quite tasty.
 </div>
 
 Carrot Soup with Turkey Meatballs and Spinach
@@ -25,9 +16,9 @@ Carrot Soup with Turkey Meatballs and Spinach
 
 By Deb Perelman
 
-![(credit: Andrew Purcell)](http://static2.parade.com/wp-content/uploads/2013/09/carrot-soup-turkey-meatballs-spinach-ftr.jpg)
+![(credit: Andrew Purcell)](/images/carrot-soup-turkey-meatballs-spinach-ftr.jpg "(credit: Andrew Purcell)")
 
-I used to think I didn’t like soup. I disliked the monotony of every
+> I used to think I didn’t like soup. I disliked the monotony of every
 spoonful tasting exactly like the one before and was bored before the
 bowl was halfway done. Then I realized I’d just been doing it wrong. Now
 I pay a lot of attention to the stuff we add at the end—be it a drizzle
@@ -76,7 +67,9 @@ pretty, too.
 
 2.  Meanwhile, make meatballs: Mix all ingredients in a medium bowl,
     season with salt and pepper, and roll into 1-inch balls, spreading
-    them out on a platter. 3. Puree soup in a blender, or with an
+    them out on a platter. 
+
+3.  Puree soup in a blender, or with an
     immersion blender, until smooth. If using blender, return soup to
     pot. Bring to a simmer. Add meatballs and let simmer until meatballs
     are cooked through, about 10 minutes. Add spinach and simmer until
@@ -87,3 +80,4 @@ pretty, too.
 
 Serves 4-6. Per serving: 210 calories, 21g carbs, 13g protein, 9g fat,
 30mg cholesterol, 840mg sodium, 5g fiber
+

@@ -6,4 +6,4 @@
     padding-bottom: 1em;
 }
 
-div#content img {width: 95%;}
+div#content img {max-width: 95%;}

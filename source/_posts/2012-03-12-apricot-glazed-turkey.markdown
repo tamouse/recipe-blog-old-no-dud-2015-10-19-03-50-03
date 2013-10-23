@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ma Lipo's Apricot-Glazed Turkey with Roasted Onion and Shallot Gravy"
-external_url: http://allrecipes.com/recipe/ma-lipos-apricot-glazed-turkey-with-roasted-onion-and-shallot-gravy-2/detail.aspx
+title: "Apricot-Glazed Turkey with Roasted Onion and Shallot Gravy"
+external_url: http://allrecipes.com/recipe/ma-lipos-apricot-glazed-turkey-with-roasted-onion-and-shallot-gravy-2/
 categories: main-dishes
 tags: [turkey, apricot glaze]
 date: 2012-03-12 01:17
@@ -10,8 +10,7 @@ date: 2012-03-12 01:17
 I made this for both our thanksgiving and christmas dinners in 2011. It's my new favourite way to roast turkey.
 </div>
 
-![](http://images.media-allrecipes.com/site/allrecipes/area/community/userphoto/small/549157.jpg
- ) 
+![](http://images.media-allrecipes.com/site/allrecipes/area/community/userphoto/small/549157.jpg ) 
 
 ## Ingredients
 ### Glaze

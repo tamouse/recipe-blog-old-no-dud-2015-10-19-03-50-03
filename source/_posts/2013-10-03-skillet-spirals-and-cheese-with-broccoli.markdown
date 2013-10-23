@@ -2,22 +2,13 @@
 layout: post
 title: "Skillet Spirals and Cheese With Broccoli"
 date: 2013-10-03 13:56
-category: main-dishes
+categories: [main-dishes,comfort-food]
 tags: [skillet, pasta, broccoli, cheese]
 external_url: http://www.parade.com/169497/debperelman/skillet-spirals-and-cheese-with-broccoli/print/
 ---
 
 <div class="excerpt">
-I always swore I wouldn’t be one of those parents who tried to sneak
-vegetables into their kids’ favorite foods. I raised an eyebrow at the
-likes of squash purees in brownies; it could only be a turnoff to both
-the vegetable and the sweet, and what could be sadder than a world
-without brownies? What I hadn’t expected is that I’d end up with a kid
-who likes broccoli but not macaroni and cheese, and that instead of
-just shrugging this off, I’d be adding broccoli florets to a baked
-cheesy pasta casserole to make it more appealing to him. But it
-worked, and this is how we’ve made it ever since—in a cast-iron
-skillet for weeknight ease.
+Hum... maybe? Another from the same issue as others.
 </div>
 
 Skillet Spirals and Cheese with Broccoli
@@ -27,9 +18,9 @@ October 2, 2013 – 5:00 AM
 
 By [Deb Perelman](http://www.parade.com/member/debperelman/)
 
-![(Andrew Purcell)](http://www.parade.com/wp-content/uploads/2013/09/skillet-spirals-cheese-broccoli-ftr.jpg)
+![(Andrew Purcell)](/images/skillet-spirals-cheese-broccoli-ftr.jpg)
 
-I always swore I wouldn’t be one of those parents who tried to sneak
+> I always swore I wouldn’t be one of those parents who tried to sneak
 vegetables into their kids’ favorite foods. I raised an eyebrow at the
 likes of squash purees in brownies; it could only be a turnoff to both
 the vegetable and the sweet, and what could be sadder than a world
