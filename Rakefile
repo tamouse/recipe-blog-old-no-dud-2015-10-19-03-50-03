@@ -92,7 +92,7 @@ task :publish do
   # Commit and push.
   puts "Committing and pushing to GitHub Pages..."
   Dir.chdir(deployment_dir) do
-    sh "git add ."
+    sh "git add --all"
     sh "git commit --allow-empty -m 'Published at #{Time.now.to_s}'"
     sh "git push --force #{deployment_remote} #{deployment_branch}"
   end
