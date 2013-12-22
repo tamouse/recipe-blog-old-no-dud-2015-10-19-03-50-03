@@ -76,6 +76,12 @@ task :preview do
 
 end
 
+desc "Generate the site"
+task :generate do
+  puts "Running Jekyll..."
+  sh "bin/jekyll build --baseurl=''"
+end
+
 desc "Commit the local site to the gh-pages branch and publish to GitHub Pages"
 task :publish do
   # Ensure the gh-pages dir exists so we can generate into it.
