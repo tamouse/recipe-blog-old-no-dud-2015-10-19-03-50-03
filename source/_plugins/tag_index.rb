@@ -29,4 +29,12 @@ module Jekyll
     end
   end
 
+  class TagList < Liquid::Tag
+    def render(context)
+      context.registers[:site].tags.keys.sort
+    end
+  end
+  
 end
+
+Liquid::Template.register_tag("tag_list", Jekyll::TagList)

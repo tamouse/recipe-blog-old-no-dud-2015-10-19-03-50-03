@@ -29,4 +29,13 @@ module Jekyll
     end
   end
 
+  class CategoryList < Liquid::Tag
+    def render(context)
+      context.registers[:site].categories.keys.sort.tap{|t| STDERR.puts "category_list: #{t.inspect}"}
+    end
+
+  end
+  
 end
+
+Liquid::Template.register_tag('category_list', Jekyll::CategoryList)
