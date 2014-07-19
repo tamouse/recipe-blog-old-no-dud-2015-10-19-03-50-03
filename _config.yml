@@ -7,6 +7,10 @@ pygments: true
 
 source: source
 destination: public
+deployment:
+  directory: gh-pages
+  branch: gh-pages
+  remote: origin
 
 exclude: [README.md]
 baseurl: /recipe-blog

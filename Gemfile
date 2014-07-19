@@ -1,8 +1,7 @@
 source "https://rubygems.org"
-gem "jekyll"
-gem "rake"
 gem "highline"
 gem "stringex"
-gem "nokogiri"
-gem "pandoc-ruby"
-gem "pry"
+gem "awesome_print"
+gem "pry", "~> 0.9.12"
+gem "pry-byebug"
+

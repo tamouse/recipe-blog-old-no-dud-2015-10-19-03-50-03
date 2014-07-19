@@ -1,36 +1,65 @@
-require "rubygems"
-require "bundler/setup"
 require 'highline/import'
-require "stringex"
-require "open-uri"
-require "nokogiri"
-require "pandoc-ruby"
+require "stringex_lite"
+require 'yaml'
+require 'erb'
+require 'awesome_print'
 
 # Stolen liberally from octopress
 
-jekyll_config   = YAML.load(File.read("_config.yml"))
+jekyll_config   = YAML.load(ERB.new(File.read("_config.yml")).result)
 
-source_dir      = jekyll_config.delete("source")
-source_dir      ||= "source"
+DEFAULT_DEPLOYMENT_DIR    = "_deploy"
+DEFAULT_DEPLOYMENT_BRANCH = "master"
+DEFAULT_DEPLOYMENT_REMOTE = "origin"
 
-destination_dir = jekyll_config.delete("destination")
-destination_dir ||= "public"
-
-deployment_branch = "gh-pages"
-deployment_dir  = "gh-pages"
-deployment_remote = "origin"
-
-posts_dir       = "_posts"
+source_dir      = jekyll_config.fetch("source","source")
+destination_dir = jekyll_config.fetch("destination","destination")
+deployment      = jekyll_config.fetch("deployment", {"directory" => DEFAULT_DEPLOYMENT_DIR, "branch" => DEFAULT_DEPLOYMENT_BRANCH, "remote" => DEFAULT_DEPLOYMENT_REMOTE })
+deployment_dir  = deployment.fetch("directory", DEFAULT_DEPLOYMENT_DIR)
+deployment_remote = deployment.fetch("remote", DEFAULT_DEPLOYMENT_REMOTE)
+deployment_branch = deployment.fetch("branch", DEFAULT_DEPLOYMENT_BRANCH)
+posts_dir       = jekyll_config.fetch("posts", "_posts")
+markdown_ext    = jekyll_config.fetch("markdown_ext", "markdown")
+new_post_ext    = markdown_ext.split(',').first.strip || "markdown"
 
 editor          = ENV['VISUAL'] ||= ENV['EDITOR'] ||= nil
-new_post_ext    = "markdown"
-new_page_ext    = "markdown"
+editor_parms    = '-n'
+
+config = {
+  "source_dir" => source_dir,
+  "destination_dir" => destination_dir,
+  "deployment" => deployment,
+  "deployment_dir" => deployment_dir,
+  "deployment_remote" => deployment_remote,
+  "deployment_branch" => deployment_branch,
+  "posts_dir" => posts_dir,
+  "markdown_ext" => markdown_ext,
+  "new_post_ext" => new_post_ext,
+  "editor" => editor,
+  "editor_parms" => editor_parms
+}
+
+hl = HighLine.new
 
 NON_URL_CHARS   = %r{[^-.\/[:alnum:]]}
 
 def create_slug(title)
   title.to_url.gsub(NON_URL_CHARS,'')
 end
+
+task :default do |t|
+  hl.say "SETTINGS:\n"
+  hl.say "Jekyll Config:"
+  hl.indent do
+    ap jekyll_config
+  end
+  hl.say "Rake Config:"
+  hl.indent do
+    ap config
+  end
+end
+
+
 
 desc "Begin a new recipe in #{source_dir}/#{posts_dir}"
 task :new_recipe, :title, :category do |t, args|
@@ -51,7 +80,7 @@ task :new_recipe, :title, :category do |t, args|
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
-  puts "Creating new post: #{filename}"
+  say "<%= color('Creating new post:', :yellow) %> <%= color('#{filename}', :red) %>"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
@@ -59,10 +88,11 @@ task :new_recipe, :title, :category do |t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "category: #{args.category}"
     post.puts "tags: []"
+    post.puts "external_url: "
     post.puts "---"
     post.puts "\n<div class=\"excerpt\">\n\n</div>\n\n"
   end
-  system("#{editor} #{filename}") unless editor.nil?
+  system("#{editor} #{editor_parms} #{filename}") unless editor.nil?
 end
 
 # Stolen liberally from the jekyll repo
@@ -71,39 +101,33 @@ desc "Generate and view the site locally"
 task :preview do
 
   # Generate the site in server mode.
-  puts "Running Jekyll..."
-  sh "bin/jekyll serve --baseurl='' --watch"
+  say "<%= color('Running Jekyll server...', :yellow) %>"
+  sh "jekyll serve --baseurl='' --watch"
 
 end
 
 desc "Generate the site"
 task :generate do
-  puts "Running Jekyll..."
-  sh "bin/jekyll build --baseurl=''"
+  say "<%= color('Building site into ', :yellow) %> <%= color('#{destination_dir}', :cyan) %>"
+  sh "jekyll build --baseurl=''"
 end
 
 desc "Commit the local site to the gh-pages branch and publish to GitHub Pages"
 task :publish do
   # Ensure the gh-pages dir exists so we can generate into it.
-  puts "Checking for #{deployment_dir}..."
-  unless File.exist?(deployment_dir)
-    puts "No #{deployment_dir} directory found."
-    exit(1)
-  end
+  abort "No #{deployment_dir} directory found." unless File.exist?(deployment_dir)
 
   # Generate the site with the gh-pages as the destination
-  puts "Generating site into #{deployment_dir}..."
-  sh "bin/jekyll build --destination='#{deployment_dir}'"
+  say "<%= color('Generating site into ', :yellow) %> <%= color('#{deployment_dir}', :cyan) %>"
+  sh "jekyll build --destination='#{deployment_dir}'"
 
   # Commit and push.
-  puts "Committing and pushing to GitHub Pages..."
+  say "<%= color('Committing and pushing to GitHub Pages...', :yellow) %>"
   Dir.chdir(deployment_dir) do
+    sh "git checkout #{deployment_branch}"
     sh "git add --all"
     sh "git commit --allow-empty -m 'Published at #{Time.now.to_s}'"
-    sh "git push --force #{deployment_remote} #{deployment_branch}"
+    sh "git push --force #{deployment_remote} HEAD"
   end
-  puts 'Done.'
+  say "<%= color('Done.', :yellow) %>"
 end
-
-
-

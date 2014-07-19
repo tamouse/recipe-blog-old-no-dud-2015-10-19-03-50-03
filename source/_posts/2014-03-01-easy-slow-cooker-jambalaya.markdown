@@ -2,9 +2,9 @@
 layout: post
 title: "Easy Slow Cooker Jambalaya"
 date: 2014-03-01 19:40
-category: main-dish
+category: main-dishes
 tags: [cajun, jambalaya, chicken, sausage, shrimp, slow-cooker]
-source: http://www.cub.com/recipes/view-recipe.17222.EE.html
+external_url: http://www.cub.com/recipes/view-recipe.17222.EE.html
 ---
 
 <div class="excerpt">
