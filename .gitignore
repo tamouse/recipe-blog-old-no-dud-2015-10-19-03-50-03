@@ -3,3 +3,4 @@ gh-pages/
 bin/
 .bundle/
 Gemfile.lock
+saved_recipes/

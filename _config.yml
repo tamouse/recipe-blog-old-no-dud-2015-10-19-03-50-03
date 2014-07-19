@@ -1,5 +1,8 @@
 name: "Tamouse's Recipe File"
 markdown: redcarpet
+redcarpet:
+  extensions:
+    - lax_spacing
 pygments: true
 
 source: source
