@@ -13,7 +13,7 @@ running and the "ummmmmms" and "oooooos" around the table were pretty
 awesome.
 </div>
 
-# Slow Cooker Smoked Beef Goulash
+1.  Slow Cooker Smoked Beef Goulash
 
 > *Note: Using good paprika is the key to this dish. We tend to think of
 paprika as something you sprinkle on top of deviled eggs and potato
@@ -22,7 +22,7 @@ adds a deep earthiness to this goulash. This version uses both sweet
 Hungarian paprika and smoked Spanish paprika for a slight twist on a
 traditional family favorite. From Meredith Deeds.*
 
-## Ingredients
+1. # Ingredients
 * 2 lb. boneless chuck, trimmed and cut into 2-in. cubes
 * 1/2 tsp. salt
 * 1/4 tsp. freshly ground black pepper
@@ -40,10 +40,10 @@ traditional family favorite. From Meredith Deeds.*
 * 2 tbsp. chopped fresh parsley
 * 1/2 c. low-fat sour cream
 
-## Directions
+1. # Directions
 
 1. Season the beef with salt and pepper. In a large skillet over
-medium-high heat add the oil and then add half of the beef. Don’t
+medium-high heat add the oil and then add half of the beef. Don't
 overcrowd or beef will not brown properly. Brown the beef on all sides,
 about 3 minutes a side. Transfer to slow cooker. Repeat with the
 remaining beef.
@@ -61,4 +61,3 @@ pepper. Cover and cook on low for 8 hours.
 the parsley and sour cream.
 
 Source: http://www.startribune.com/lifestyle/taste/recipes/228058401.html
-

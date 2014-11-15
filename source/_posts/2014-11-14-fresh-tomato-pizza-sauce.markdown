@@ -29,13 +29,13 @@ anchovies, 2 garlic cloves, 6 tablespoons olive oil, and 1/4 cup basil
 leaves in a food processor or blender until mostly smooth (some texture
 is okay); season with salt and pepper.
 
-### Put It All Together:
+1. ## Put It All Together:
 
 A classic Grandma - just sauce and mozzarella - flips the usual script:
 Add cheese before sauce. Master this basic pie and you're ready to
 improvise (see below for ideas).
 
-### Classic Mozzarella Pie:
+1. ## Classic Mozzarella Pie:
 
 Place a rack in lower third of oven and preheat to 525&degF; or as high
 as oven will go.
@@ -45,7 +45,7 @@ ounces fresh mozzarella, grated, and dot pie with 1 1/2 cups Fresh
 Tomato Pizza Sauce. Bake pie until golden brown and crisp on bottom and
 sides, 20 to 30 minutes.
 
-### That Topping Game
+1. ## That Topping Game
 
 When it comes to toppings, restraint is key. "It's all about ratio,"
 Pinello says. "You want them to work with the crust, the sauce, the

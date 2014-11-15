@@ -53,12 +53,12 @@ Directions
 3.  Cook on Low for 6 to 8 hours, until the chicken is easily removed
     from the bone.
 
-### Nutrition Facts
+1. ## Nutrition Facts
 
 Serving Size: 1 (744 g)  
 Servings Per Recipe: 4  
 
-#### Amount Per Serving
+1. ### Amount Per Serving
 - Calories 638.9
 - Calories from Fat 159 24%
 - Total Fat 17.7g 27%
@@ -70,9 +70,6 @@ Servings Per Recipe: 4
 - Sugars 10.5 g 42%
 - Protein 32.4g 64%
 
-## Source:
+1. # Source:
 - [http://www.food.com/recipe/pollo-chicken-fricassee-puerto-rico-499184](http://www.food.com/recipe/pollo-chicken-fricassee-puerto-rico-499184)
 - [http://allrecipes.com/Recipe/Pollo-Chicken-Fricassee-from-Puerto-Rico/](http://allrecipes.com/Recipe/Pollo-Chicken-Fricassee-from-Puerto-Rico/)
-
-
-

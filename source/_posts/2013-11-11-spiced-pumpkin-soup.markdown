@@ -13,7 +13,7 @@ make an awesome base for a curry, perhaps with the addition of a can
 of stewed tomatoes.
 </div>
 
-## Ingredients
+1. # Ingredients
 
 * 1 tablespoon oil or butter, to fry onions
 * 1 onion, chopped fine
@@ -27,12 +27,12 @@ of stewed tomatoes.
 * 1 (15 ounce) can of pumpkin
 * 1 (12 ounce) can of *evaporated* milk
 
-### For garnish, optional
+1. ## For garnish, optional
 
 * plain greek-style yogurt
 * chopped parsley
 
-## Directions
+1. # Directions
 
 1. In a large stock- or soup-pot, heat oil or butter. Add onion and
 cook until translucent, about 3 minutes or so.

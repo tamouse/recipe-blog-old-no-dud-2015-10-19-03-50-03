@@ -12,7 +12,7 @@ A faithful rendition of the famous Skyline Chili from Cincinatti, Ohio.
 </div>
 
 
-#cincinnati chili cockaigne
+1. cincinnati chili cockaigne
 
 serves 6 over pasta, or more than 24 coneys (allow 2 per person)
 
@@ -40,11 +40,11 @@ Stir in:
 * 1 large bay leaf
 * 2 teaspoons salt
 * 2 teaspoons ground cinnamon
-* 1½ teaspoons ground red pepper
+* 1 1/2 teaspoons ground red pepper
 * 1 teaspoon ground cumin
-* ½ ounce unsweetened chocolate, grated
+* 1/2 ounce unsweetened chocolate, grated
 
-Bring to a boil, then reduce the heat to a simmer and cook for 2½ hours. Cool, uncovered, and refrigerate overnight. Before serving, skim off all or most of the fat and discard. Discard the bay leaf. Reheat the chili.
+Bring to a boil, then reduce the heat to a simmer and cook for 2.5 hours. Cool, uncovered, and refrigerate overnight. Before serving, skim off all or most of the fat and discard. Discard the bay leaf. Reheat the chili.
 
 For a 2-Way, serve over:
 

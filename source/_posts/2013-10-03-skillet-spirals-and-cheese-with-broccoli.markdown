@@ -14,21 +14,21 @@ Hum... maybe? Another from the same issue as others.
 Skillet Spirals and Cheese with Broccoli
 ========================================
 
-October 2, 2013 – 5:00 AM
+October 2, 2013 - 5:00 AM
 
 By [Deb Perelman](http://www.parade.com/member/debperelman/)
 
 ![(Andrew Purcell)](/images/skillet-spirals-cheese-broccoli-ftr.jpg)
 
-> I always swore I wouldn’t be one of those parents who tried to sneak
-vegetables into their kids’ favorite foods. I raised an eyebrow at the
+> I always swore I wouldn't be one of those parents who tried to sneak
+vegetables into their kids' favorite foods. I raised an eyebrow at the
 likes of squash purees in brownies; it could only be a turnoff to both
 the vegetable and the sweet, and what could be sadder than a world
-without brownies? What I hadn’t expected is that I’d end up with a kid
+without brownies? What I hadn't expected is that I'd end up with a kid
 who likes broccoli but not macaroni and cheese, and that instead of just
-shrugging this off, I’d be adding broccoli florets to a baked cheesy
+shrugging this off, I'd be adding broccoli florets to a baked cheesy
 pasta casserole to make it more appealing to him. But it worked, and
-this is how we’ve made it ever since—in a cast-iron skillet for
+this is how we've made it ever since -- in a cast-iron skillet for
 weeknight ease.
 
 
@@ -36,7 +36,7 @@ weeknight ease.
 - Active Time: 20 min.
 - Total Time: 30 min.
 
-## Ingredients
+1. # Ingredients
 
 - 8 oz dried whole wheat pasta spirals
 - Kosher salt and freshly ground pepper
@@ -45,10 +45,10 @@ weeknight ease.
 - 1 cup sliced scallions
 - 3 Tbsp flour
 - 3 cups milk (any fat level will do)
-- 2 cups grated cheeses (such as cheddar and Gruyère), mixed
-- 2 oz (½ cup) finely grated Parmesan
+- 2 cups grated cheeses (such as cheddar and Gruyere), mixed
+- 2 oz (1/2 cup) finely grated Parmesan
 
-## Directions
+1. # Directions
 
 1. Cook pasta in salted, boiling water for 2 minutes *less* than
 package directions.
@@ -81,10 +81,7 @@ minutes, until the pasta is browned and crisp on top.
 
 1. Serve from skillet.
 
-## Nutrition Info:
+1. # Nutrition Info:
 
 Serves 6. Per serving: 480 calories, 42g carbs, 24g protein, 25g fat,
 75mg cholesterol, 780mg sodium, 5g fiber
-
-
-

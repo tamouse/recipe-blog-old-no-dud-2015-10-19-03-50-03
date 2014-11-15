@@ -12,25 +12,25 @@ I made this for both our thanksgiving and christmas dinners in 2011. It's my new
 
 ![](http://images.media-allrecipes.com/site/allrecipes/area/community/userphoto/small/549157.jpg ) 
 
-## Ingredients
-### Glaze
+1. # Ingredients
+1. ## Glaze
 * 1 cup apricot nectar
 * 1 cup apricot preserves
 * 2 tablespoons minced fresh ginger root
 * 1 tablespoon honey
 
-### Herb Butter
+1. ## Herb Butter
 * 3/4 cup unsalted butter, softened
 * 3 tablespoons chopped fresh sage
 * 1 1/2 teaspoons salt
 * 1 teaspoon ground black pepper
 
-### Onion mixture
+1. ## Onion mixture
 * 2 tablespoons unsalted butter
 * 3 onions, thinly sliced
 * 6 ounces thinly sliced shallots
 
-### Roasting
+1. ## Roasting
 * 22 pounds whole turkey
 * 2 cups low-sodium chicken broth
 * 1 teaspoon chopped fresh thyme
@@ -38,7 +38,7 @@ I made this for both our thanksgiving and christmas dinners in 2011. It's my new
 * 2 cups low-sodium chicken broth
 * salt and pepper to taste
 
-## Directions
+1. # Directions
 1. Combine apricot nectar, preserves, ginger, and honey in a small
 saucepan and bring to boil. Reduce heat to medium-low, and simmer
 until thickened and reduced to 1-1/4 cups, about 15 minutes.
@@ -79,7 +79,7 @@ sauce to desired consistency. Transfer sauce to a large saucepan, and
 bring to a boil. Cook until color deepens, skimming off any foam,
 about 5 minutes. Season with salt and pepper. Serve aside turkey. 
 
-## Comments
+1. # Comments
 
 From the submitter:
 
@@ -91,4 +91,3 @@ menu are wild mushroom stuffing, cranberry sauce with raspberry
 vinegar, mashed sweet potatoes, rutabaga and parsnip casserole, green
 beans with walnuts, date and onion relish, pear chutney, and of
 course, pumpkin pie and butterscotch pie." -- Christine L. 
-

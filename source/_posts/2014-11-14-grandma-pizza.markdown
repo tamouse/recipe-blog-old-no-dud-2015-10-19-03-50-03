@@ -10,7 +10,7 @@ ingredients
 -----------
 
 - 1 envelope active dry yeast (about 2 1/4 teaspoons)
-- 1 1/2 cups warm water (105-110°)
+- 1 1/2 cups warm water (105 to 110&degF;)
 - 2 tablespoons olive oil, plus 1/2 cup
 - 2 cups all-purpose flour
 - 2 teaspoons kosher salt
@@ -20,7 +20,7 @@ preparation
 -----------
 
 Combine 1 envelope active dry yeast (about 2 1/4 teaspoons) and 1 1/2
-cups warm water (105-110°) in a large bowl; let stand until yeast starts
+cups warm water (105 to 110&degF;) in a large bowl; let stand until yeast starts
 to foam, about 10 minutes.
 
 Mix in 2 tablespoons olive oil, then 2 cups all-purpose flour and 2
@@ -38,7 +38,7 @@ sheet. (If dough springs back or is stiff to work with, let it rest 10
 minutes before continuing. You may need to let it rest more than once.)
 
 Cover dough on baking sheet tightly with plastic wrap and let sit in a
-warm place (but not too warm! About 70° is ideal for yeast to grow)
+warm place (but not too warm! About 70&degF; is ideal for yeast to grow)
 until it is puffed and full of air bubbles, 30-40 minutes.
 
 
