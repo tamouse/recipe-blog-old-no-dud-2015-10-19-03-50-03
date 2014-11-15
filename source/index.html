@@ -25,12 +25,4 @@ title: "Home Page"
     {% endfor %}
   </div>
 
-  <h1>Index</h1>
-  <ul>
-    {% for post in site.posts %}
-    <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}
-    ({{post.categories | sort | join: ", "}})</a></li>
-    {% endfor %}
-  </ul>
-
 </div>
