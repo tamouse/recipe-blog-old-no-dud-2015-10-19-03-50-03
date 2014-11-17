@@ -1,16 +1,29 @@
 ---
 layout: default
-title: "Full Index of Recipes"
+title: "Recipes Index"
 ---
+
 <div id="home">
 
   <h1>{{ page.title }}</h1>
-  <ol>
-    {% assign slug_sorted_posts = site.posts | slug_sort %}
-    {% for post in slug_sorted_posts %}
-    <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}
-    ({{post.categories | sort | join: ", "}})</a></li>
-    {% endfor %}
-  </ol>
-  
+
+  <table id="recipes" width="100%" cellspacing="3px" cellpadding="5px" border="1">
+    <thead>
+      <tr>
+        <th width="20%">Category</th>
+        <th>Date</th>
+        <th>Recipe Name</th>
+      </tr>
+    </thead>
+    <tfoot></tfoot>
+    <tbody>{% assign slug_sorted_posts = site.posts | slug_sort %}
+      {% for post in slug_sorted_posts %}<tr>
+        <td>{{ post.categories }}</td>
+        <td>{{ post.date | date: "%Y/%m/%d" }}</td>
+        <td><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></td>
+      </tr>{% endfor %}
+    </tbody>
+  </table>
+
 </div>
+

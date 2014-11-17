@@ -6,6 +6,8 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width">
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdn.datatables.net/1.10.4/css/jquery.dataTables.css" type="text/css" media="screen" />
+
     <link rel="stylesheet" href="{{site.baseurl}}/css/screen.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="{{site.baseurl}}/css/sticky-footer.css" type="text/css" media="screen" />
     <!-- syntax highlighting CSS -->
@@ -26,5 +28,17 @@
     </div>
     <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>    
+    <script type="text/javascript" src="//cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('#recipes').DataTable({
+          "order" : [[ 2, "asc" ]],
+          "pageLength" : 25,
+          "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]
+        });
+      });
+    </script>
+
+
   </body>
 </html>
