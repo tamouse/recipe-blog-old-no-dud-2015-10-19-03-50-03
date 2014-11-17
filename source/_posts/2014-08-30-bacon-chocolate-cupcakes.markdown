@@ -6,12 +6,10 @@ category: desserts
 tags: [cupcakes, chocolate, bacon]
 external_url: http://allrecipes.com/Recipe/Dark-Chocolate-Bacon-Cupcakes/
 ---
-
-<div class="excerpt">
 Dark chocolate, bacon, cupcakes. 'Nuff said.
-</div>
 
-1. # Ingredients
+
+## Ingredients
 
 * 12 slices bacon
 * 2 cups all-purpose flour
@@ -26,7 +24,7 @@ Dark chocolate, bacon, cupcakes. 'Nuff said.
 * 1/2 cup vegetable oil
 * 1 tablespoon unsweetened cocoa powder, for dusting
 
-1. # Directions
+## Directions
 
 1. Preheat oven to 375 degrees F (190 degrees C). Place bacon in a
 large, deep skillet. Cook over medium-high heat until evenly

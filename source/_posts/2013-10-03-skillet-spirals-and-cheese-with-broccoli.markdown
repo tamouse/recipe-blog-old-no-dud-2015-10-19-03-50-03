@@ -2,23 +2,13 @@
 layout: post
 title: "Skillet Spirals and Cheese With Broccoli"
 date: 2013-10-03 13:56
-categories: [main-dishes,comfort-food]
-tags: [skillet, pasta, broccoli, cheese]
+categories: [main-dishes]
+tags: [skillet, pasta, broccoli, cheese, comfort-food]
 external_url: http://www.parade.com/169497/debperelman/skillet-spirals-and-cheese-with-broccoli/print/
 ---
-
-<div class="excerpt">
 Hum... maybe? Another from the same issue as others.
-</div>
 
-Skillet Spirals and Cheese with Broccoli
-========================================
 
-October 2, 2013 - 5:00 AM
-
-By [Deb Perelman](http://www.parade.com/member/debperelman/)
-
-![(Andrew Purcell)](/images/skillet-spirals-cheese-broccoli-ftr.jpg)
 
 > I always swore I wouldn't be one of those parents who tried to sneak
 vegetables into their kids' favorite foods. I raised an eyebrow at the
@@ -32,11 +22,7 @@ this is how we've made it ever since -- in a cast-iron skillet for
 weeknight ease.
 
 
-- Serves: 6
-- Active Time: 20 min.
-- Total Time: 30 min.
-
-1. # Ingredients
+## Ingredients
 
 - 8 oz dried whole wheat pasta spirals
 - Kosher salt and freshly ground pepper
@@ -48,7 +34,7 @@ weeknight ease.
 - 2 cups grated cheeses (such as cheddar and Gruyere), mixed
 - 2 oz (1/2 cup) finely grated Parmesan
 
-1. # Directions
+## Directions
 
 1. Cook pasta in salted, boiling water for 2 minutes *less* than
 package directions.
@@ -80,8 +66,3 @@ until melted and smooth.
 minutes, until the pasta is browned and crisp on top.
 
 1. Serve from skillet.
-
-1. # Nutrition Info:
-
-Serves 6. Per serving: 480 calories, 42g carbs, 24g protein, 25g fat,
-75mg cholesterol, 780mg sodium, 5g fiber

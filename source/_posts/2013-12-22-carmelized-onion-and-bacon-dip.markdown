@@ -5,15 +5,12 @@ date: 2013-12-22 09:43
 category: appetizers
 tags: [bacon, carmelized onions, cheese]
 ---
-
-<div class="excerpt">
 This is a fantastic appetizer recipe gleaned from an advertising
 circular. The ad called for using Karo syrup, which I omitted quite
 readily.
-</div>
 
 
-1. # Ingredients
+## Ingredients
 
 - 8 ounces bacon
 - 2 tablespoons butter
@@ -25,7 +22,7 @@ readily.
 - 2 cups shredded Monterey jack cheese
 - 1/4 cup chopped green onions for garnish 
 
-1. # Directions
+## Directions
 
 1. Cook the bacon in a large skillet over medium heat until
 crisp. Drain on paper towels and crumble. Drain all but 2 tablespoons

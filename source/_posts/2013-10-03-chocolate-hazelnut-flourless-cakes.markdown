@@ -8,16 +8,7 @@ tags: [gluten-free baking, eggs, Nutella]
 ---
 These chocolate treats are crowd-pleasers, and they're gluten-free.
 
-
-Chocolate-Hazelnut Flourless Chocolate Cakes
-============================================
-
-By [Paula Jones](http://www.parade.com/member/paulajones/)
-
-![(credit Andrew Purcell)](http://static2.parade.com/wp-content/uploads/2013/09/chocolate-hazelnut-flourless-chocolate-cakes-ftr.jpg)
-
-
-1. # Ingredients
+## Ingredients
 
 -   Nonstick cooking spray
 -   6 Tbsp unsalted butter
@@ -28,7 +19,7 @@ By [Paula Jones](http://www.parade.com/member/paulajones/)
 -   Whipped cream, for serving
 -   Chopped hazelnuts, for serving
 
-1. # Directions
+## Directions
 
 1.  Preheat oven to 325&deg;F. Mist 8 (7-oz) ramekins with cooking spray.
 

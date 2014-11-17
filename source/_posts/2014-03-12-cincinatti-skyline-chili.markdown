@@ -6,13 +6,7 @@ categories: soups
 tags: [chili]
 date: 2014-03-12 20:18
 ---
-
-<div class="excerpt">
 A faithful rendition of the famous Skyline Chili from Cincinatti, Ohio.
-</div>
-
-
-1. cincinnati chili cockaigne
 
 serves 6 over pasta, or more than 24 coneys (allow 2 per person)
 

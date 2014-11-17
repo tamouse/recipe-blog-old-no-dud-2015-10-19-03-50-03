@@ -2,7 +2,7 @@
 layout: post
 title: "Grandma Style Pizza Dough"
 categories: [pizza]
-source: http://www.epicurious.com/recipes/food/views/Grandma-Style-Pizza-Dough-51252570
+external_url: http://www.epicurious.com/recipes/food/views/Grandma-Style-Pizza-Dough-51252570
 ---
 Simple pizza crust you bake on a baking sheet.
 
@@ -40,8 +40,3 @@ minutes before continuing. You may need to let it rest more than once.)
 Cover dough on baking sheet tightly with plastic wrap and let sit in a
 warm place (but not too warm! About 70&degF; is ideal for yeast to grow)
 until it is puffed and full of air bubbles, 30-40 minutes.
-
-
-*******
-
-[Source]({{ page.source }})

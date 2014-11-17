@@ -4,16 +4,12 @@ title: "Slow Cooker Smoked Beef Goulash"
 date: 2013-10-22 23:21
 category: main-dishes
 tags: [hungarian, paprika, beef]
+external_url: http://www.startribune.com/lifestyle/taste/recipes/228058401.html
 ---
-
-<div class="excerpt">
 This was a winner of a recipe. I substituted 1/2 cup of red wine for
 some of the beef broth. (Who wouldn't??) We had this two nights
 running and the "ummmmmms" and "oooooos" around the table were pretty
 awesome.
-</div>
-
-1.  Slow Cooker Smoked Beef Goulash
 
 > *Note: Using good paprika is the key to this dish. We tend to think of
 paprika as something you sprinkle on top of deviled eggs and potato
@@ -22,7 +18,8 @@ adds a deep earthiness to this goulash. This version uses both sweet
 Hungarian paprika and smoked Spanish paprika for a slight twist on a
 traditional family favorite. From Meredith Deeds.*
 
-1. # Ingredients
+## Ingredients
+
 * 2 lb. boneless chuck, trimmed and cut into 2-in. cubes
 * 1/2 tsp. salt
 * 1/4 tsp. freshly ground black pepper
@@ -40,7 +37,7 @@ traditional family favorite. From Meredith Deeds.*
 * 2 tbsp. chopped fresh parsley
 * 1/2 c. low-fat sour cream
 
-1. # Directions
+## Directions
 
 1. Season the beef with salt and pepper. In a large skillet over
 medium-high heat add the oil and then add half of the beef. Don't
@@ -60,4 +57,3 @@ pepper. Cover and cook on low for 8 hours.
 4. Ladle into heated serving bowls over the egg noodles, and garnish with
 the parsley and sour cream.
 
-Source: http://www.startribune.com/lifestyle/taste/recipes/228058401.html

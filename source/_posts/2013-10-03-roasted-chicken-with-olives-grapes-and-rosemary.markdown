@@ -7,38 +7,13 @@ external_url: http://www.parade.com/169516/debperelman/harvest-roast-chicken-wit
 tags: [chicken, olives, grapes, rosemary]
 ---
 
-<div class="excerpt">
+
 Another recipe my mom found for us to try. It sounds good, except the
 olives. :P If I'm making this, I'm leaving out the olives.
-</div>
 
-Harvest Roast Chicken with Olives, Grapes, and Rosemary
-=======================================================
 
-By Deb Perelman
 
-![(credit: Andrew Purcell)](/images/harvest-roast-chicken-olives-grapes-rosemary-ftr.jpg)
-
-> The first time I made this, I was unwaveringly certain that nobody would
-like it. My husband detests sweet things in savory dishes; I find most
-olives too salty; and the toddler, well, he's a toddler. You're probably
-wondering why I went ahead anyway. The thing is, I think browning and
-oven-roasting chicken, then making a sauce from the pan drippings, is
-one of the greatest ways to cook a bird. It's quick, so it totally
-passes muster on a weeknight. It's not expensive. And because the
-chicken is cooked in pieces, it can accommodate an assortment of picky
-eaters -- say, a husband who likes only white meat, a wife who likes only
-dark meat, and a child who insists he doesn't like chicken as he chews
-on a drumstick. Despite my pessimism, we were blown away by this dish. I
-have made it with ingredients both highbrow (local grapes and imported
-olives) and low (street-cart grapes and sad olives from the back of the
-fridge) and have never found it less than perfect.
-
-- Serves: 6
-- Active Time: 25 min.
-- Total Time: 45 min.
-
-1. # Ingredients
+## Ingredients
 
 -   3 lb bone-in skin-on chicken parts (thighs, drumsticks, and/or
     breasts)
@@ -51,7 +26,7 @@ fridge) and have never found it less than perfect.
 -   1/2 cup dry white wine
 -   1/2 cup chicken broth
 
-1. # Directions
+## Directions
 
 1.  Preheat oven to 450&deg;F.
 
@@ -71,8 +46,3 @@ fridge) and have never found it less than perfect.
     up any brown bits, and cook until reduced by half, 2 to 3 minutes.
     Strain sauce and pour over chicken, if desired. (See how long it
     takes guests to offer to slurp up sauce with a spoon.)
-
-1. # Nutrition Info
-
-Serves 6. Per serving: 560 calories, 10g carbs, 39g protein, 39g fat,
-180mg cholesterol, 650mg sodium, 0g fiber

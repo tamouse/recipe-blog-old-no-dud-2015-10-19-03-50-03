@@ -5,15 +5,9 @@ date: 2014-01-12 19:51
 category: baked-goods
 tags: [chocolate, cake, fast]
 ---
-
-<div class="excerpt">
 Fast and easy. Cake.
-</div>
 
-
-1.  5 Minute Fudgy Chocolate Microwave Cake
-
-1. # Ingredients
+## Ingredients
 
 * 3/4 cup (3 3/4 ounces) all-purpose flour
 * 3/4 cup (5 1/4 ounces) granulated sugar, divided
@@ -26,7 +20,7 @@ Fast and easy. Cake.
 * 1/2 cup semisweet or bittersweet chocolate chips
 * 1 cup warm water
 
-1. # Directions
+## Directions
 
 1. Combine flour, 1/2 cup plus 2 tablespoons cocoa, 1/2 cup sugar,
 baking powder, and salt in a 1 1/2 quart shallow microwave safe dish.

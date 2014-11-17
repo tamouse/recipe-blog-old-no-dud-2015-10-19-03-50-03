@@ -6,13 +6,9 @@ category: breakfast
 external_url: http://www.pbs.org/food/fresh-tastes/corn-chorizo-hash/
 tags: [corn, chorizo, eggs]
 ---
-<div class="excerpt">
 Chorizo is a spicy Spanish sausage. Combine it with corn, potatoes, and a fried egg to create a savory dish versatile enough to enjoy anytime.
-</div>
 
-1.  Corn and Chorizo Hash
-
-1. #Ingredients
+##Ingredients
 
 * 1 tablespoons olive oil, plus more for frying eggs
 * 3/4 pound small waxy potatoes, diced
@@ -26,7 +22,7 @@ Chorizo is a spicy Spanish sausage. Combine it with corn, potatoes, and a fried 
 * 2 green onions, thinly sliced 
 * 2 to 3 large eggs 
 
-1. # Directions
+## Directions
 
 1. In a large saut&eacute; pan, heat the olive oil over medium heat. When the oil is hot, add the diced potato, minced shallot and a few pinches of salt and pepper. Give it a good stir and cover the pan; cook the potatoes for about 5  to 10 minutes until the potatoes are very *al dente*. **Note:** be sure to stir the potatoes every so often to prevent them from sticking to the bottom of the pan. 
 
@@ -35,7 +31,3 @@ Chorizo is a spicy Spanish sausage. Combine it with corn, potatoes, and a fried 
 3. In a small saucepan, add a few tablespoons of olive oil. Heat the oil over high heat and when the oil is ready, slowly add the egg and fry until edges are crispy and yolk is over-easy. Set that egg aside and repeat with remaining egg(s).
 
 4. Divide hash amongst plates and top with the fried egg. Garnish egg with a sprinkling of salt and pepper.
-
-*Yield: 2-3 servings.*
-
-Recipe courtesy of [Adrianna Adarme](http://www.pbs.org/food/chefs/adrianna-adarme/) of the [Fresh Tastes blog](http://www.pbs.org/food/fresh-tastes/corn-chorizo-hash/).

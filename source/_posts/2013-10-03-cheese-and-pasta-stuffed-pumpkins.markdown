@@ -10,15 +10,7 @@ You can use just about any round winter squash for this recipe. But
 steer clear of the field pumpkins meant for jack-o'-lanterns: Their
 flesh is stringy and less tasty than other varieties.
 
-
-Oh My Gourd: Cheesy Pasta Stuffed Pumpkins
-==========================================
-
-By dash
-
-![(Andrew Purcell)](http://static2.parade.com/wp-content/uploads/2013/09/cheesy-pasta-stuffed-pumpkins-ftr.jpg)
-
-1. # Ingredients
+## Ingredients
 
 -   2 (4-lb) sugar pumpkins or kabocha or red kuri squash
 -   Kosher salt and freshly ground pepper
@@ -30,7 +22,7 @@ By dash
 -   1/4 lb grated Gruyere cheese
 -   1 cup heavy cream
 
-1. # Directions
+## Directions
 
 1.  Preheat oven to 375&deg;F. Cut an opening in top of each pumpkin or
     squash; remove and reserve tops; scrape out seeds and season insides
@@ -53,13 +45,8 @@ By dash
     with a knife, about 1 hour, 30 minutes. Serve pasta from pumpkins,
     scooping out some pumpkin flesh with each helping.
 
-1. # Cook's Note
+## Cook's Note
 
-You can use just about any round winter squash for this recipe. But
+> You can use just about any round winter squash for this recipe. But
 steer clear of the field pumpkins meant for jack-o-lanterns: Their
 flesh is stringy and less tasty than other varieties.
-
-1. # Nutrition Info
-
-Serves 6-8. Per serving: 380 calories, 29g carbs, 15g protein, 24g fat,
-70mg cholesterol, 360mg sodium, 3g fiber

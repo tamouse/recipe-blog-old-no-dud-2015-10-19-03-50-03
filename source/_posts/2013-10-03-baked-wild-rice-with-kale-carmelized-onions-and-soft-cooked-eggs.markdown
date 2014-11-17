@@ -10,28 +10,7 @@ Oh my, this was so good. This is now a go-to recipe for us. Consider
 adding loose sausage instead of the eggs, or even chicken. Yum! This
 is definitely one for the houseboat!
 
-Baked Wild Rice with Kale, Caramelized Onions, and Soft-Cooked Eggs
-===================================================================
-
-By Deb Perelman
-
-![(credit: Andrew Purcell)](/images/baked-wild-rice-kale-carmelized-onions-soft-cooked-eggs-ftr.jpg "(credit: Andrew Purcell)")
-
-> Gratins get a bad rap -- but they’re actually the ultimate weeknight
-casserole. Most people imagine that gratins are flooded with cream and
-cheese, though neither is essential to a good one. I call this gratin
-"baked wild rice" to avoid the misconception. It's made with a wild rice
-blend, onions cooked until they're sweet, ribbons of kale, and grated
-cheese. The result is one of our favorite cold-weather dishes, decadent
-but not over the top. I often make it at the start of the week, then
-reheat it throughout -- either as a side dish or as a meal in itself,
-especially with a soft-boiled egg on top.
-
-- Serves: 8
-- Active Time: 50 min.
-- Total Time: 1 hr. 20 min.
-
-1. # Ingredients
+## Ingredients
 
 -   3 Tbsp unsalted ૛utter, divided
 -   1 Tbsp olive oil
@@ -44,7 +23,7 @@ especially with a soft-boiled egg on top.
 -   1 cup dry bread crumbs
 -   8 large eggs (optional)
 
-1. # Directions
+## Directions
 
 1.  Preheat oven to 375&deg;F.
 
@@ -64,8 +43,3 @@ especially with a soft-boiled egg on top.
 4.  If serving with eggs, bring a pot of water to boil. Add eggs and
     cook 5 to 6 minutes (for soft-boiled). Peel eggs under cool running
     water. Serve each portion with an egg. Add salt and pepper.
-
-1. # Nutrition Info
-
-Serves 8. Per Serving (without egg): 380 calories, 46g carbs, 17g
-protein, 15g fat, 40mg cholesterol, 320mg sodium, 4g fiber

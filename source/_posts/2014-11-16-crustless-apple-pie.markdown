@@ -5,7 +5,6 @@ date: 2014-11-16 09:05
 categories: ["desserts"]
 tags: ["apples", "american-cuisine", "holiday-baking"]
 external_url: http://www.pbs.org/food/fresh-tastes/crustless-apple-pie
-source: http://www.pbs.org/food/fresh-tastes/crustless-apple-pie
 ---
 This crustless apple pie recipe is prepared within the apple for a Fall
 treat. Even novice bakers can make this seasonal dish from [Marc

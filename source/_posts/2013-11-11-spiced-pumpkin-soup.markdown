@@ -5,15 +5,12 @@ date: 2013-11-11 18:52
 category: soups
 tags: [pumpkin]
 ---
-
-<div class="excerpt">
 I made this on Nov 11, 2013, and everyone enjoyed it a lot.
 A very nicely spiced pumpkin soup, with curry and cumin. This could
 make an awesome base for a curry, perhaps with the addition of a can
 of stewed tomatoes.
-</div>
 
-1. # Ingredients
+## Ingredients
 
 * 1 tablespoon oil or butter, to fry onions
 * 1 onion, chopped fine
@@ -27,12 +24,12 @@ of stewed tomatoes.
 * 1 (15 ounce) can of pumpkin
 * 1 (12 ounce) can of *evaporated* milk
 
-1. ## For garnish, optional
+### For garnish, optional
 
 * plain greek-style yogurt
 * chopped parsley
 
-1. # Directions
+## Directions
 
 1. In a large stock- or soup-pot, heat oil or butter. Add onion and
 cook until translucent, about 3 minutes or so.
