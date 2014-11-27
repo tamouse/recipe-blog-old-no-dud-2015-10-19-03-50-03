@@ -20,7 +20,7 @@ This is the classic family dressing recipe, with raisins.
 
 ## Directions
 
-1. Heat oven to 350 F.
+1. Heat oven to 325 F.
 
 2. In large metal bowl with ring on the side, melt butter on stove top.
 
@@ -32,12 +32,11 @@ This is the classic family dressing recipe, with raisins.
 
 6. Put into oven-safe baking dish or loaf pan.
 
-7. Bake at 350 F for 1 hour.
+7. Bake at 325 F, covered, for 40 minutes. Uncover and continue baking for 20 more minutes.
 
 
 ## Notes
 
 Can be baked in oven with turkey for final hour, if there is room!
 
-
-
+Turkey typically cooks at 325 &deg; F, so oven temperature and baking time is set here to match that.
