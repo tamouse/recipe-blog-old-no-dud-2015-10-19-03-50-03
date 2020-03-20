@@ -1,8 +1,6 @@
 public/
+!public/.keep
 gh-pages/
 bin/
 .bundle/
 Gemfile.lock
-saved_recipes/
-old-wiki-recipes/
-saved_images/

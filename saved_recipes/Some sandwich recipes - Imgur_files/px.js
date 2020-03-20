@@ -1,0 +1,2 @@
+!function(a){var b=$("script.abp").get(-1);if(b){for(var c,d=b.src.replace(/^[^\?]+\??/,"").split("&"),e={},f=0;f<d.length;f++){var g=d[f].split("=");e[g[0]]=g[1]}1==e.ch?c=!0:2==e.ch&&(c=!1),a.usesABP=c}}(window);
+//# sourceMappingURL=px.js.map

@@ -1,0 +1,318 @@
+#sg_paywall_user
+{
+    position: absolute;
+    right: 20px;
+    top: -1px;
+    background: #000;
+    border-radius:1px solid #FFF;
+    z-index: 10;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    letter-spacing: 0px !important;
+    padding: 10px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+#sg_paywall_login
+{
+    width:640px;
+    border:none;
+    position: fixed;
+    z-index: 100000;
+    margin-left: -320px;
+    top: 250px;
+    left: 50%;
+    background-color: transparent !important;
+    display:none;
+    height:400px;
+}
+#sg_login_box
+{
+    width:250px;
+    float: right;
+}
+#sg_screen_lock
+{
+    width:100%;
+    height:100%;
+    position: absolute;
+    z-index: 99999;
+    background-color: #333333;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+    filter: alpha(opacity=70);
+    -moz-opacity: 0.7;
+    -khtml-opacity: 0.7;
+    opacity: 0.7;
+    display: none;
+}
+#sg_login_form
+{
+    display: none;
+    width:200px;
+    float: right;
+    padding: 25px;
+    border-left:1px solid #CCC;
+    height: 350px;
+}
+.sg_form input[type="text"], .sg_form input[type="password"]
+{
+    font-size: 16px;
+    padding: 5px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.sg_security_panel select
+{
+    font-size: 13px;
+    padding: 0px;
+    width: 100%;
+    margin-bottom: 15px;
+    height: inherit;
+}
+#sg_forgot_password_link
+{
+    float: right;
+    color:#0b559b;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#sg_forgot_passsword_form
+{
+    display:none;
+}
+#sg_show_registration
+{
+    margin-top:20px;
+    font-size: 16px;
+}
+#sg_register_form
+{
+    display:none;
+}
+
+.sg_save_security_button
+{
+    display:none;
+}
+
+.sg_button
+{
+    font-size: 14px;
+    background-color: #333333;
+    color: #FFF;
+    display: inline-block;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#sg_security_panel a
+{
+    color:#00a8e8;
+}
+#sg_security_panel
+{
+    position: fixed;
+    right: 20px;
+    bottom: 0px;
+    z-index: 99999;
+    width: 250px;
+    background-color: #363d47;
+    font-size:12px;
+    color: #000;
+    height: 40px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-weight:normal !important;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    font-size:12px !important;
+    letter-spacing: 0px !important;
+    line-height: normal !important;
+
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+
+}
+#sg_security_panel_holder
+{
+    padding:10px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    letter-spacing: 0px !important;
+    overflow:auto;
+    height: 100%;
+    padding-bottom: 500px;
+    position: relative;
+    -ms-overflow-style: scrollbar;
+}
+#sg_security_panel label
+{
+    font-size:10px;
+    color: #CCC;
+    display: block;
+    text-transform: uppercase;
+    font-weight:normal;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    letter-spacing: 0px !important;
+}
+#sg_security_panel select
+{
+    width:100%;
+    margin-bottom: 10px;
+}
+#sg_security_panel input[type="checkbox"]
+{
+    float: left;
+}
+
+#sg_security_panel input[type="button"]
+{
+    padding: 10px 20px;
+    background-color: #8dc53f;
+    color: #FFF;
+    font-size: 16px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    background-image: none;
+    margin-top: 20px;
+}
+#sg_security_panel input[type="button"]:hover
+{
+    background-color: #92d435;
+}
+
+#sg_security_panel input:focus { outline: none; }
+
+#sg_page_url
+{
+    font-size:11px;
+    color:#CCC;
+    background-color: #363d47;
+    border: 1px solid #999;
+    width:180px;
+    background-image:url('home.png');
+    background-repeat: no-repeat;
+    background-position: 4px 4px;
+    padding-left: 20px;
+}
+#sg_security_logo
+{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    letter-spacing: 0px !important;
+    background-color:#00a8e8;
+    text-align: center;
+    padding: 12px 20px 10px 30px;
+    background-image: url('logo_white.png');
+    height:18px;
+    background-position: 10px 5px;
+    background-repeat: no-repeat;
+    color:#c6f0ff;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 14px;
+    font-weight: lighter;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+#sg_subscription_options label
+{
+    color:#DDD;
+    font-size: 12px;
+    text-transform: none;
+    padding-top: 1px;
+    margin-bottom:5px;
+    display: block;
+}
+#sg_security_type label
+{
+    margin-bottom: 10px;
+}
+#sg_security_type label
+{
+    color:#DDD;
+    font-size:12px;
+    float: none;
+    display: inline-block;
+    padding-right: 20px;
+
+}
+
+#sg_security_type input
+{
+    display: inline-block;
+}
+
+#sg_section_security_page,#sg_section_security_section
+{
+    border-top:1px solid #999;
+    padding-top:10px;
+}
+#sg_inherited_security
+{
+    color:#FFF;
+}
+
+#sg_inherited_security label
+{
+    font-size:10px;
+    color:#BBB;
+    display: block;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+
+body
+{
+    position: relative;
+}
+
+#sg_inside_container
+{
+    background-color: #24282f;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    color:#FFF;
+}
+
+#sg_logout
+{
+    padding: 5px 10px;
+    background-color: #00a8e8;
+    color: #FFF;
+    font-size: 12px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    width: 60px;
+    clear: both;
+}
+
+#sg_logout:hover
+{
+    background-color: #f37d21;
+}
+
+
+
+
