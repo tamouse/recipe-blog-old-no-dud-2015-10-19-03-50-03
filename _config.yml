@@ -13,4 +13,3 @@ deployment:
   remote: origin
 
 exclude: [README.md]
-baseurl: /recipe-blog
